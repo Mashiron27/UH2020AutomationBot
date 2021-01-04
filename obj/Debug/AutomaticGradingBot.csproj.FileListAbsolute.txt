@@ -1,0 +1,14 @@
+C:\Users\vpopa\Desktop\UH2020-AutomationBot\AutomaticGradingBot\bin\Debug\AutomaticGradingBot.exe.config
+C:\Users\vpopa\Desktop\UH2020-AutomationBot\AutomaticGradingBot\bin\Debug\AutomaticGradingBot.exe
+C:\Users\vpopa\Desktop\UH2020-AutomationBot\AutomaticGradingBot\bin\Debug\AutomaticGradingBot.pdb
+C:\Users\vpopa\Desktop\UH2020-AutomationBot\AutomaticGradingBot\obj\Debug\AutomaticGradingBot.csprojAssemblyReference.cache
+C:\Users\vpopa\Desktop\UH2020-AutomationBot\AutomaticGradingBot\obj\Debug\AutomaticGradingBot.MainPage.resources
+C:\Users\vpopa\Desktop\UH2020-AutomationBot\AutomaticGradingBot\obj\Debug\AutomaticGradingBot.Properties.Resources.resources
+C:\Users\vpopa\Desktop\UH2020-AutomationBot\AutomaticGradingBot\obj\Debug\AutomaticGradingBot.csproj.GenerateResource.cache
+C:\Users\vpopa\Desktop\UH2020-AutomationBot\AutomaticGradingBot\obj\Debug\AutomaticGradingBot.csproj.CoreCompileInputs.cache
+C:\Users\vpopa\Desktop\UH2020-AutomationBot\AutomaticGradingBot\obj\Debug\AutomaticGradingBot.exe
+C:\Users\vpopa\Desktop\UH2020-AutomationBot\AutomaticGradingBot\obj\Debug\AutomaticGradingBot.pdb
+C:\Users\vpopa\Desktop\UH2020-AutomationBot\AutomaticGradingBot\obj\Debug\AutomaticGradingBot.ReadHomeworks.resources
+C:\Users\vpopa\Desktop\UH2020-AutomationBot\AutomaticGradingBot\obj\Debug\AutomaticGradingBot.SeeResults.resources
+C:\Users\vpopa\Desktop\UH2020-AutomationBot\AutomaticGradingBot\obj\Debug\AutomaticGradingBot.SendResults.resources
+C:\Users\vpopa\Desktop\UH2020-AutomationBot\AutomaticGradingBot\obj\Debug\AutomaticGradingBot.SetModel.resources
